@@ -1,12 +1,5 @@
-# GameShop
+# GameShop AA 1
 
-### Como compilar la aplicacion
-* Necesitas tener instalado y configurado el SDK de Android asi como Android Studio
-* Importa la aplicacion desde GitHub clonandola o descargandote el fichero con el codigo fuente
-* Configura los TOKENS de MapBox para poder acceder a los mapas.
-    * Edita el fichero gradle.properties con TOKEN privado.
-    * Añade un fichero xml en la carpeta values con esta estructura `<?xml version="1.0" encoding="utf-8"?>  
-      <resources><string name="mapbox_access_token" translatable="false">PUBLICTOKEN</string></resources>` y añade tu TOKEN public de MapBox
 
 ### Requisitos obligatorios
 - [x] La aplicación contará con, al menos, 7 Activities, utilizando controles ImageView, TextView, Button, CheckBox y RecyclerView para recoger y presentar información en pantalla y se hará, como mínimo, en dos idiomas
